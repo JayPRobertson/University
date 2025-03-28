@@ -1,0 +1,11 @@
+true, [449]
+true, [77]
+false, []
+true, [600]
+false, []
+false, []
+true, [966]
+true, [588]
+true, [477]
+true, [39]
+Elapsed time: 6662000

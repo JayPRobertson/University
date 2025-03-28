@@ -1,0 +1,11 @@
+true, [0]
+false, []
+true, [2]
+false, []
+true, [1]
+true, [2]
+true, [2]
+false, []
+true, [1]
+true, [1]
+Elapsed time: 10590584
