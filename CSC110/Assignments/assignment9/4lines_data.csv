@@ -1,0 +1,5 @@
+﻿track_id,genre,artist_name,track_name,popularity,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,valence
+00021Wy6AyMbLP2tqij86e,,Capcom Sound Team,Zangiefs Theme,13,0.234,0.617,169173,0.862,0.976,G,0.141,-12.855,Major,0.0514,129.578,0.886
+000CzNKC8PEt1yC3L8dqwV,Movie,Henri Salvador,Coeur Brise √† Prendre - Remastered,5,0.249,0.518,130653,0.805,0,F,0.333,-6.248,Major,0.0407,79.124,0.841
+000DfZJww8KiixTKuk9usJ,Reggae,Mike Love,Earthlings,30,0.366,0.631,357573,0.513,4.16E-06,D,0.109,-6.376,Major,0.0293,120.365,0.307
+000EWWBkYaREzsBplYjUag,Jazz:R&B,Don Philippe,Fewerdolr,39,0.815,0.768,104924,0.137,0.922,C#,0.113,-13.284,Minor,0.0747,76.43,0.56
